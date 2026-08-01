@@ -122,7 +122,7 @@ Próximamente estaré publicando mis proyectos desarrollados durante mi proceso 
 <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a> -->
 
-<a href="mishelle_17@live.com">
+<a href="mailto:mishelle_17@live.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
