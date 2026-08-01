@@ -114,8 +114,11 @@ Próximamente estaré publicando mis proyectos desarrollados durante mi proceso 
 
 <p>
 
-<a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <!-- <a href="PORTAFOLIO">
