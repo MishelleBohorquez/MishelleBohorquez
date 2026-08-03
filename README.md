@@ -106,7 +106,7 @@ Próximamente estaré publicando mis proyectos desarrollados durante mi proceso 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MishelleBohorquez&theme=tokyonight"/>
 
 </p>
 
