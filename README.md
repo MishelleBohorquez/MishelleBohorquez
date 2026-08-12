@@ -93,11 +93,11 @@ Próximamente estaré publicando mis proyectos desarrollados durante mi proceso 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MishelleBohorquez&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MishelleBohorquez&layout=compact&theme=tokyonight"/>
-
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MishelleBohorquez&show_icons=true&theme=tokyonight"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishelleBohorquez&layout=compact&theme=tokyonight"/>
+  
 </p>
 
 ---
