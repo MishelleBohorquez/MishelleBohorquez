@@ -74,7 +74,7 @@ Ingeniera de Sistemas y Computación | Desarrolladora Full Stack Java
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Mis Fuertes
 
 - Spring Boot
 - Java Backend
