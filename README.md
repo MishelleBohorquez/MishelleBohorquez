@@ -12,7 +12,7 @@ Ingeniera de Sistemas y Computación | Desarrolladora Full Stack Java
 
 🎓 Ingeniera de Sistemas y Computación.
 
-💻 Actualmente me encuentro fortaleciendo mis conocimientos como Desarrolladora Full Stack Java.
+💻 Desarrolladora Full Stack Java.
 
 🚀 Me apasiona el desarrollo de software, especialmente la creación de aplicaciones web, APIs REST y soluciones escalables.
 
