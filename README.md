@@ -69,16 +69,6 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 ---
 
-## 🌱 Mis Fuertes
-
-- Spring Boot
-- Java Backend
-- Arquitectura de Software
-- Desarrollo de APIs REST
-- Buenas prácticas de desarrollo
-
----
-
 ## 📂 Proyectos Destacados
 
 ### 🐾 Sistema de Reservas para Hotel de Mascotas
