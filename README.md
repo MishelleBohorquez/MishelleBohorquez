@@ -69,12 +69,12 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 ---
 
-### 🚀 Proyectos Destacados
+<h2 data-importer="text" align="center">PROYECTOS DESTACADOS</h2>
 
 | Proyecto | Descripción e Impacto | Stack Tecnológico | Código |
 | :--- | :--- | :--- | :---: |
-| **🐾 Sistema de Reservas para Hotel de Mascotas**<br>*Full Stack \| Jun – Sep 2026* | Automatización de reservas de hospedaje (reducción del **80%** en tiempos de gestión; MVP en 9 semanas). APIs RESTful transaccionales y panel admin en tiempo real. | `Java` `Spring Boot` `JavaScript` `PostgreSQL` `Supabase` | [Repo](https://github.com/tu-usuario/tu-repo-hotel) |
-| **🎮 Plataforma Educativa de Inglés**<br>*Full Stack \| Ago – Nov 2025* | Videojuego 2D educativo para zonas rurales integrado con un portal web de seguimiento docente mediante APIs REST. | `Godot Engine` `REST APIs` `PostgreSQL` `Supabase` `Git` | [Repo](https://github.com/tu-usuario/tu-repo-educativo) |
+| **🐾 Sistema de Reservas para Hotel de Mascotas**<br>*Full Stack \| Jun – Sep 2026* | Automatización de reservas de hospedaje (reducción del **80%** en tiempos de gestión; MVP en 9 semanas). APIs RESTful transaccionales y panel admin en tiempo real. | `Java` `Spring Boot` `JavaScript` `PostgreSQL` `Supabase` | [Repo](https://github.com/SamuelVelez-G/Huellitas-Hotel-Project) |
+| **🎮 Plataforma Educativa de Inglés**<br>*Full Stack \| Ago – Nov 2025* | Videojuego 2D educativo para zonas rurales integrado con un portal web de seguimiento docente mediante APIs REST. | `Godot Engine` `REST APIs` `PostgreSQL` `Supabase` `Git` | [Repo](https://github.com/MishelleBohorquez/VideojuegoEducativo) |
 
 ---
 
