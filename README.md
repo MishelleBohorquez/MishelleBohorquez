@@ -162,4 +162,4 @@ Solución educativa multidisciplinaria enfocada en niños de zonas rurales, comp
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave GIF" width="30" />
