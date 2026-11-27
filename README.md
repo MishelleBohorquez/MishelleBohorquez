@@ -39,8 +39,6 @@
 
 ###
 
----
-
 ### Frontend
 
 <div data-importer="techs" align="center">
@@ -59,8 +57,6 @@
 </div>
 
 ###
-
----
 
 ### Herramientas
 
