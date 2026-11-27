@@ -78,7 +78,7 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 ---
 
-## 📊 GitHub Stats
+<h2 data-importer="text" align="center">GITHUB STATS</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MishelleBohorquez&show_icons=true&theme=tokyonight"/>
@@ -87,7 +87,7 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 ---
 
-## 📈 Racha de contribuciones
+<h2 data-importer="text" align="center">RACHA DE CONSTRIBUCIONES</h2>
 
 <p align="center">
 
