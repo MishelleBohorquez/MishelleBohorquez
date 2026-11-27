@@ -82,8 +82,8 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mishelle_17@live.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Correo" title="Correo" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/mail--v1.png" height="40" alt="Correo" title="Correo" />
+</a>
   <a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank" rel="noopener noreferrer">
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portafolio" title="Portafolio" />
 </a>
