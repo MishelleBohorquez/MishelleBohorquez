@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=%230D1117&height=100&section=header&text=MISHELLE%20BOHORQUEZ&fontSize=50&animation=fadeIn&fontColor=ffffff" />
-</div>
+<h1 data-importer="text" align="center">MISHELLE BOHORQUEZ</h1>
 
 ###
 <div align="center">
