@@ -99,16 +99,16 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 <div data-importer="techs" align="center">
 
   <a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" title="LinkeDin/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mishelle_17@live.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Correo" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Correo" title="Correo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Portafolio" />
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Portafolio" title="Portafolio" />
   </a>
 
 </div>
