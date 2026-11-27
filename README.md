@@ -120,8 +120,8 @@ Próximamente estaré publicando mis proyectos desarrollados durante mi proceso 
   />
 </a>
 
-<a href="PORTAFOLIO">
-<img src="https://mishellebohorquez.github.io/Portafolio-Mishelle/"/>
+<a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/>
 </a>
 
 <a href="mailto:mishelle_17@live.com">
