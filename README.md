@@ -89,10 +89,8 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 <h2 data-importer="text" align="center">RACHA DE CONSTRIBUCIONES</h2>
 
-
-
-<img src="https://streak-stats.demolab.com?user=MishelleBohorquez&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MishelleBohorquez&theme=tokyonight"/>
 </p>
 
 ---
