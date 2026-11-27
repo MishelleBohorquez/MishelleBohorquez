@@ -162,6 +162,4 @@ Solución educativa multidisciplinaria enfocada en niños de zonas rurales, comp
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=%23DAD9DB&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil.&fontSize=50&animation=fadeIn&fontColor=ffffff" />
-</div>
+⭐ Gracias por visitar mi perfil.
