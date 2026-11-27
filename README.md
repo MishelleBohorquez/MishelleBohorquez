@@ -1,6 +1,4 @@
 <h1 data-importer="text" align="center">MISHELLE BOHORQUEZ</h1>
-
-###
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4D4D4&center=true&vCenter=true&width=500&height=30&lines=Ingeniera%20de%20sistemas%20y%20computaci%C3%B3n%3BDesarrolladora%20Full%20Stack%3BDesarrolladora%20Backend%3BAnalista%20de%20datos" alt="Typing SVG" />
 </div>
