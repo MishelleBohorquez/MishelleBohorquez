@@ -103,11 +103,11 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:mishelle_17@live.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Correo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tu-portafolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Portafolio" />
   </a>
 
