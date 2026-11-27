@@ -3,7 +3,7 @@ Hola 👋, soy Mishelle Bohorquez
 </h1>
 
 <h3 align="center">
-Ingeniera de Sistemas y Computación | Desarrolladora Full Stack Java
+Ingeniera de Sistemas y Computación
 </h3>
 
 ---
