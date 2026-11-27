@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 TECNOLOGÍAS
+<h2 data-importer="text" align="center">TECNOLOGÍAS</h2>
 
 ### Backend
 
