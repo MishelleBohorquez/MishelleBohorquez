@@ -86,7 +86,30 @@ Ingeniera de Sistemas y Computación | Desarrolladora Full Stack Java
 
 ## 📂 Proyectos Destacados
 
-Próximamente estaré publicando mis proyectos desarrollados durante mi proceso de formación y proyectos personales.
+### 🐾 Sistema de Reservas para Hotel de Mascotas
+**Rol:** Desarrolladora Full Stack | *Junio 2026 - Septiembre 2026*
+
+Aplicación web integral diseñada para automatizar la gestión de hospedaje de mascotas, reduciendo los tiempos de reserva en un 80% frente a procesos manuales.
+- **Backend & Arquitectura:** Desarrollo de servicios y APIs RESTful con **Java** y **Spring Boot**, procesando el 100% de las transacciones de hospedaje.
+- **Frontend & Datos:** Creación de vistas interactivas con **JavaScript, HTML5 y CSS3**, conectadas a **PostgreSQL** y **Supabase**.
+- **Gestión:** Implementación de un panel de administración en tiempo real para el control de usuarios y personal (MVP entregado en 9 semanas).
+
+`Java` `Spring Boot` `JavaScript` `HTML5` `CSS3` `PostgreSQL` `Supabase`
+
+🔗 **[Ver Repositorio](https://github.com/MishelleBohorquez/NOMBRE-DEL-REPO)** *(Reemplaza con el enlace real)*
+
+---
+
+### 🎮 Plataforma Educativa para el Aprendizaje de Inglés
+**Rol:** Desarrolladora Full Stack | *Agosto 2025 - Noviembre 2025*
+
+Solución educativa multidisciplinaria enfocada en niños de zonas rurales, compuesta por un videojuego 2D interactivo y un portal web de seguimiento para docentes.
+- **Integración & APIs:** Conexión entre el videojuego y la plataforma web mediante **REST APIs**, **PostgreSQL** y **Supabase**.
+- **Desarrollo:** Implementación de funcionalidades en **Godot Engine** y gestión del flujo de trabajo en equipo bajo metodología incremental con **Git** y **GitHub**.
+
+`Godot Engine` `REST APIs` `PostgreSQL` `Supabase` `Git` `GitHub`
+
+🔗 **[Ver Repositorio](https://github.com/MishelleBohorquez/NOMBRE-DEL-REPO)** *(Reemplaza con el enlace real)*
 
 ---
 
