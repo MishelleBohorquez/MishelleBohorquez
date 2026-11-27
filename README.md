@@ -87,6 +87,7 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
   <a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Portafolio" title="Portafolio" />
   </a>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/portfolio.png" alt="portfolio"/>
 </div>
 
 ---
