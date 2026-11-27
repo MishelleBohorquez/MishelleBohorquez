@@ -12,15 +12,7 @@
 
 ## 👩‍💻 Sobre mí
 
-🎓 Ingeniera de Sistemas y Computación.
-
-💻 Desarrolladora Full Stack Java.
-
-🚀 Me apasiona el desarrollo de software, especialmente la creación de aplicaciones web, APIs REST y soluciones escalables.
-
-📚 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades de programación.
-
-🤝 Me gusta trabajar en equipo, resolver problemas y desarrollar software de calidad.
+Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el análisis de datos. Construyo APIs RESTful escalables con Java (Spring Boot) y modelos de análisis con Python (Pandas, SQL), diseñando arquitecturas respaldadas por bases de datos relacionales como PostgreSQL, MySQL y Oracle.
 
 ---
 
