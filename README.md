@@ -94,7 +94,7 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 </p>
 
 ---
-<h2 data-importer="text" align="center">CONTACTAME</h2>
+<h2 data-importer="text" align="center">CONTÁCTAME</h2>
 
 <a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/" target="_blank">
   <img
