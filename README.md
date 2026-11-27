@@ -1,10 +1,8 @@
-<h1 align="center">
-Hola 👋, soy Mishelle Bohorquez
-</h1>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=101&section=header&reversal=false&text=MISHELLE%20BOHORQUEZ&fontSize=56&fontColor=FFFFFF&fontAlign=50&fontAlignY=43&stroke=-&desc=INGENIERA%20DE%20SISTEMAS%20Y%20COMPUTACI%C3%93N&descSize=16&descAlign=50&descAlignY=85&textBg=false&color=1A1B27"  />
+</div>
 
-<h3 align="center">
-Ingeniera de Sistemas y Computación
-</h3>
+###
 
 ---
 
