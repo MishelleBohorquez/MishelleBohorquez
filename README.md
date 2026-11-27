@@ -69,7 +69,7 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 ---
 
-## 📂 Proyectos Destacados
+<h2 data-importer="text" align="center">PROYECTOS DESTACADOS</h2>
 
 ### 🐾 Sistema de Reservas para Hotel de Mascotas
 **Rol:** Desarrolladora Full Stack | *Junio 2026 - Septiembre 2026*
