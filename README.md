@@ -89,7 +89,7 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 <h2 data-importer="text" align="center">RACHA DE CONSTRIBUCIONES</h2>
 
-<p align="center">
+
 
 <img src="https://streak-stats.demolab.com?user=MishelleBohorquez&theme=tokyonight"/>
 
@@ -98,8 +98,6 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 ---
 
 ## 📫 Conecta conmigo
-
-<p>
 
 <a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/" target="_blank">
   <img
@@ -123,4 +121,4 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+<p  align="center">⭐ Gracias por visitar mi perfil. </p>
