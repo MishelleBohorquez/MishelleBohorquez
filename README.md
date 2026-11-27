@@ -102,16 +102,15 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
 
-<a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/>
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Correo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tu-portafolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Portafolio" />
+  </a>
 
-<a href="mailto:mishelle_17@live.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
 </div>
 
 
