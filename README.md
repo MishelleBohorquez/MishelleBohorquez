@@ -78,7 +78,15 @@ Ingeniera de Sistemas y Computación enfocada en el desarrollo Backend y el aná
 <h2 align="center">CONTÁCTAME</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mishelle_17@live.com"><img src="https://img.icons8.com/fluency/48/mail--v1.png" width="48" height="48" alt="Correo" title="Correo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/portfolio.png" width="48" height="48" alt="Portafolio" title="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/dayan-mishelle-bohorquez-rojas-6885a920b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mishelle_17@live.com">
+    <img src="https://img.icons8.com/fluency/48/mail--v1.png" width="48" height="48" alt="Correo" title="Correo" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mishellebohorquez.github.io/Portafolio-Mishelle/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/portfolio.png" width="48" height="48" alt="Portafolio" title="Portafolio" />
+  </a>
 </p>
 
 ---
