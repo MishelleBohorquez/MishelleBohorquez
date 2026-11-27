@@ -96,7 +96,7 @@ Aplicación web integral diseñada para automatizar la gestión de hospedaje de 
 
 `Java` `Spring Boot` `JavaScript` `HTML5` `CSS3` `PostgreSQL` `Supabase`
 
-🔗 **[Ver Repositorio](https://github.com/MishelleBohorquez/NOMBRE-DEL-REPO)** *(Reemplaza con el enlace real)*
+🔗 **[Ver Repositorio](https://samuelvelez-g.github.io/Huellitas-Hotel-Project/)**
 
 ---
 
@@ -109,7 +109,7 @@ Solución educativa multidisciplinaria enfocada en niños de zonas rurales, comp
 
 `Godot Engine` `REST APIs` `PostgreSQL` `Supabase` `Git` `GitHub`
 
-🔗 **[Ver Repositorio](https://github.com/MishelleBohorquez/NOMBRE-DEL-REPO)** *(Reemplaza con el enlace real)*
+🔗 **[Ver Repositorio](https://github.com/MishelleBohorquez/VideojuegoEducativo)**
 
 ---
 
